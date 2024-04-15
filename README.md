@@ -2,4 +2,4 @@
 
 python3 fileName.py
 or
-nodemon --exec python3 nameofthefile.py
+nodemon --exec python3 fileName.py
