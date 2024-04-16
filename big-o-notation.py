@@ -1,0 +1,1 @@
+# Big O Notation that tells you how fast an algorightm is.

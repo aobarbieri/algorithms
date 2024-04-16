@@ -20,3 +20,7 @@ my_list = [1,3,5,7,9]
 
 print(binary_search(my_list, 3))
 print(binary_search(my_list, -1))
+
+
+# Notes
+# For any list of n, binary search will take log2 n steps to run in the worst case, whereas simple search will take n steps.
